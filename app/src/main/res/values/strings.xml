@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TP</string>
+    <string name="text_hello">Hello World</string>
+    <string name="image_description">Illustration de profil</string>
+    <string name="swipe">Swipe</string>
+</resources>
