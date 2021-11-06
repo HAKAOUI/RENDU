@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="a_propos_de_moi">About me</string>
+    <string name="add_neighbor_toolbar_name">Add neighbors</string>
+    <string name="liste_neighbor_toolbar_name">list neighbors</string>
+    <string name="Image">picture</string>
+    <string name="name">name</string>
+    <string name="address">Email</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="save">save</string>
+    <string name="photo_de_profile">profile picture</string>
+</resources>
