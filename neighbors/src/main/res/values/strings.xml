@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="a_propos_de_moi">A propos de moi</string>
+    <string name="add_neighbor_toolbar_name">Ajouter des voisins</string>
+    <string name="liste_neighbor_toolbar_name">liste des voisins</string>
+    <string name="Image">Image</string>
+    <string name="name">nom</string>
+    <string name="address">E-mail</string>
+    <string name="phone">Télephone</string>
+    <string name="website">Site Web</string>
+    <string name="save">Enregistrer</string>
+    <string name="photo_de_profile">photo de profile</string>
+</resources>
